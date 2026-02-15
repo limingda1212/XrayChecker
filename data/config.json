@@ -27,5 +27,5 @@
         "http://speedtest-ny.turnkeyinternet.net/100mb.bin",
         "https://yandex.ru/internet/api/v0/measure/download?size=10000000"
     ],
-    "debug_mode": false,
+    "debug_mode": false
 }
